@@ -29,3 +29,7 @@ h3{
     font-style: italic;
     color: brown;
 }  
+#div1 {
+    background-color: var(--main-bg-color);
+    padding: 5px;  
+  }
