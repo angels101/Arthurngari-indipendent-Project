@@ -1,5 +1,25 @@
-.intro{
-    font-style: normal;
-    font-size: 12px;
-    text-indent: 34px;
+h1 {
+    stroke-width: 1px;
+    stroke-miterlimit: initial;
+}
+intro {
+   text-decoration-color: rgb(206, 5, 5); 
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    border: 1px solid #ff294d;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+}
+img:hover {
+    box-shadow: rgb(163, 167, 157);
+}
+
+img {
+    float: none;
 }
