@@ -19,8 +19,8 @@ img:hover {
 img {
     float: none;
 }
-hh2 {
+h2 {
     font-style: italic;
     text-align: center;
-    color: teal;
+    color: rgb(235, 6, 25);
   }
