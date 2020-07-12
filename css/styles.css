@@ -52,7 +52,7 @@ img {
     color: brown;
 }  
 
-#div1 {
+div1 {
     background-color: var(--main-bg-color);
     padding: 5px;  
 }
