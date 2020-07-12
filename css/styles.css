@@ -1,4 +1,4 @@
-}
+
 .column {
     float: left;
   }
@@ -53,4 +53,9 @@ h3{
     background-color: var(--main-bg-color);
     padding: 5px;  
 }
-}
+/* Style the footer */
+.footer {
+    background-color: #28d18b;
+    text-align: center;
+    padding: 10px;
+  }
