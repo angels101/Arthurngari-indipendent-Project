@@ -18,11 +18,11 @@
       }
   }
 
-intro {
+.intro {
    text-decoration-color: rgb(206, 5, 5); 
 }
 
-h1 {
+.h1 {
     text-align: center;
 }
 
@@ -32,6 +32,7 @@ img {
     padding: 5px;
     width: 200px;
 }
+
 img:hover {
     box-shadow: rgb(163, 167, 157);
 }
@@ -39,20 +40,23 @@ img:hover {
 img {
     float: none;
 }
-h2 {
+.h2 {
     font-style: italic;
     text-align: center;
     color: rgb(235, 6, 25);
   }
-h3{
+
+.h3 {
     text-align: center;
     font-style: italic;
     color: brown;
 }  
+
 #div1 {
     background-color: var(--main-bg-color);
     padding: 5px;  
 }
+
 /* Style the footer */
 .footer {
     background-color: #28d18b;
