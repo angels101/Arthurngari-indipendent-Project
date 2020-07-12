@@ -1,3 +1,23 @@
+}
+.column {
+    float: left;
+  }
+  /*divide the page into two columns*/
+  .column.side {
+      width: 25%;
+  }
+  /*column at center*/
+  .column.middle {
+      width: 50%;    
+  }
+  /*dynamic layout -makes the divided screen to stack on top of each other
+  instead of next to each other*/
+  @media screen and (max-width: 600px) {
+      .column.side, .column.middle {
+          width: 100%;
+      }
+  }
+
 intro {
    text-decoration-color: rgb(206, 5, 5); 
 }
@@ -32,5 +52,5 @@ h3{
 #div1 {
     background-color: var(--main-bg-color);
     padding: 5px;  
-  }
-  
+}
+}
