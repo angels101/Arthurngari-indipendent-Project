@@ -1,0 +1,4 @@
+This is an
+Apache type 
+license can freely run, modify and share software code. However, they must follow the terms of the Apache license which has strict rules, especially to redistribution. 
+Thereby, users have to provide unequivocal statements verifying that files have been modified. And, they also need to include notices in their original work.
