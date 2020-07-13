@@ -63,3 +63,7 @@ div1 {
     text-align: center;
     padding: 10px;
   }
+  .vl {
+    border-left: 6px solid green;
+    height: 10px;
+  }
